@@ -1,0 +1,25 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "Advanced Mitochondrial Formula",
+  "description": "Scientifically-formulated supplement to support mitochondrial health, boost NAD+ levels, and enhance natural energy production",
+  "brand": {
+    "@type": "Brand",
+    "name": "Mitochondrial Health"
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "reviewCount": "2400",
+    "bestRating": "5",
+    "worstRating": "1"
+  },
+  "offers": {
+    "@type": "AggregateOffer",
+    "priceCurrency": "USD",
+    "lowPrice": "66.65",
+    "highPrice": "79.95",
+    "offerCount": "3",
+    "availability": "https://schema.org/InStock"
+  }
+}
